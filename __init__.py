@@ -1,5 +1,6 @@
 from mycroft import MycroftSkill, intent_file_handler
 import serial
+# This will be crazy fun
 
 class CharlieStandup(MycroftSkill):
     def __init__(self):
