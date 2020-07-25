@@ -232,3 +232,6 @@
 [submodule "myepisodes"]
 	path = myepisodes
 	url = https://github.com/brezuicabogdan/myepisodes-skill
+[submodule "charlie-standup-skill"]
+	path = charlie-standup-skill
+	url = https://github.com/rolandoman/charlie-standup-skill
